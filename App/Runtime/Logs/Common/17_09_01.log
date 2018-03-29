@@ -1,0 +1,4252 @@
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__PUBLIC__/Home/Js/nav.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002337s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__PUBLIC__/Home/Theme/%7B$style%7D/Css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001056s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__PUBLIC__/Home/Uploadify/jquery.uploadify.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__PUBLIC__/Home/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000955s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__PUBLIC__/Home/Theme/%7B$style%7D/Css/nav.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007500s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__PUBLIC__/Home/Uploadify/uploadify.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001165s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__PUBLIC__/Home/Js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001018s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__PUBLIC__/Home/Theme/%7B$style%7D/Css/bottom.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002130s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/hehe.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001510s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001236s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001469s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/keai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/wabisi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001268s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:25+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kelian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001124s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/chijing.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001017s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/jiyan.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001594s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xixi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.047634s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bizui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001585s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bishi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001335s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/aini.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/touxiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haixiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001046s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qinqin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001082s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shengbin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/taikaixin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001017s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haha.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001531s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/youhenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001021s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuohenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001503s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001305s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001341s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/lei.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/weiqu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001059s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/tu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/nu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001523s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ldln.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002793s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/dahaqian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001549s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/canzui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001233s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baibai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/han.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001129s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baobao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005411s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/sikao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.039459s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001081s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shiwang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yiwen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001821s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuijiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heng.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/huaxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001114s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/guzhang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001660s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ku.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002292s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002126s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuakuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001083s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/numa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000980s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000984s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/beishuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002369s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yinxian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001277s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001137s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001139s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haha.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001223s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xixi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001012s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/hehe.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001132s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/keai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001339s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kelian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001278s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/chijing.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haixiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001017s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/wabisi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000959s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bishi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001030s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:26+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bizui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000265s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002534s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/lei.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002481s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/touxiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shengbin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qinqin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001021s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ldln.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/taikaixin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/aini.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuohenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/youhenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001199s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003108s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/tu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000981s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/weiqu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baobao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001125s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/nu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yiwen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000968s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/canzui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001103s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/sikao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001288s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/han.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001017s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuijiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001007s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/jiyan.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036864s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shiwang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/dahaqian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000998s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/huaxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001073s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/guzhang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001187s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heng.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001153s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ku.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001252s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/beishuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001075s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heixian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001096s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuakuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001239s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/numa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000990s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yinxian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001141s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuangxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001184s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/default.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001077s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001072s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baibai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001769s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/style4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004476s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/style2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001554s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001273s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001517s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001594s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001109s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xixi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/hehe.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001257s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/keai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/chijing.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001173s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001142s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/wabisi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:27+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haha.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001237s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kelian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haixiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002282s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bizui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001584s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/aini.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001619s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/lei.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007731s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/touxiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shengbin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001151s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bishi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000817s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002045s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qinqin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuohenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001200s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/weiqu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/taikaixin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001824s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/youhenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001394s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/tu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001143s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/dahaqian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001275s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/nu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ldln.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.067661s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baobao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001390s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yiwen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001055s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/sikao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001714s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baibai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001243s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/han.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001543s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuijiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002904s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shiwang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002962s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/huaxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heng.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002138s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ku.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002597s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/guzhang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuakuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001097s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/canzui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.079992s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heixian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/numa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001590s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/beishuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001677s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001106s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yinxian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.049130s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001420s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.029768s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017636s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuangxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004445s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:28+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001284s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:43+08:00 ] ::1 /weibo/__PUBLIC__/Home/Theme/%7B$style%7D/Css/nav.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001094s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:43+08:00 ] ::1 /weibo/__PUBLIC__/Home/Js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:43+08:00 ] ::1 /weibo/__PUBLIC__/Home/Uploadify/jquery.uploadify.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:43+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:43+08:00 ] ::1 /weibo/__PUBLIC__/Home/Theme/%7B$style%7D/Css/bottom.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001059s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:43+08:00 ] ::1 /weibo/__PUBLIC__/Home/Theme/%7B$style%7D/Css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:43+08:00 ] ::1 /weibo/__PUBLIC__/Home/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.028035s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:43+08:00 ] ::1 /weibo/__PUBLIC__/Home/Uploadify/uploadify.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Js/nav.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001409s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002228s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001273s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xixi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/keai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/wabisi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001280s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kelian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001077s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/chijing.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001023s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haha.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001167s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/jiyan.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bishi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001128s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/aini.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/lei.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/hehe.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001392s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/touxiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001465s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qinqin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004684s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shengbin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/taikaixin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ldln.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/youhenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuohenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001311s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001405s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/weiqu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001007s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bizui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/tu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001096s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baobao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/nu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haixiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001309s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/dahaqian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001274s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/canzui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001117s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baibai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001903s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/sikao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/han.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001012s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002197s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuijiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001397s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shiwang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000970s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ku.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/huaxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heng.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001058s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/guzhang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/beishuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000937s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heixian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001169s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuakuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001363s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuangxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yiwen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002986s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005601s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/numa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001417s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001175s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001421s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001711s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001150s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/hehe.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003612s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haha.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xixi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:44+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/wabisi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000988s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/keai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kelian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001218s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/chijing.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haixiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002707s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bizui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001256s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/jiyan.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001485s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bishi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/lei.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003400s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/touxiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001250s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shengbin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qinqin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005893s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/taikaixin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002268s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ldln.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001064s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuohenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/youhenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/weiqu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001498s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001624s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/tu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.059445s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baobao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/nu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001165s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yiwen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/aini.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001223s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/canzui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baibai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/sikao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001479s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/han.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001454s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001009s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001007s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shiwang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heng.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuijiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000134s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002520s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/huaxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001085s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/guzhang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003795s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ku.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019192s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuakuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001021s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heixian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000988s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/dahaqian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yinxian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001033s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/beishuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/default.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000983s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/style2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001180s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/style3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/numa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001169s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/style4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002168s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001150s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001278s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuangxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014374s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001118s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/hehe.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001144s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xixi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haha.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001085s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kelian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001645s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/keai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003386s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/wabisi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:45+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/jiyan.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001021s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haixiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001007s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022886s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bizui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001297s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/chijing.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000174s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036790s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006492s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bishi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001362s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qinqin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001169s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/aini.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001312s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/lei.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002098s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/taikaixin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuohenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001223s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/touxiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004589s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shengbin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.053814s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/weiqu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001180s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/tu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000981s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baobao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/nu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001141s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ldln.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002068s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yiwen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/canzui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001009s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baibai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001369s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/sikao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005676s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/han.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001573s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuijiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002056s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shiwang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/huaxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heng.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002096s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/guzhang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001369s ]
+ERR: 无法加载模块:__PUBLIC__
+
+__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001045s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002944s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001021s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001629s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:11:46+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001098s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Theme/%7B$style%7D/Css/nav.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001063s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Uploadify/jquery.uploadify.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001444s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Theme/%7B$style%7D/Css/bottom.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.046335s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001002s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Theme/%7B$style%7D/Css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010062s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Js/nav.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001002s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Uploadify/uploadify.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.038318s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001146s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003292s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001172s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001239s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xixi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001104s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haha.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001145s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004237s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/chijing.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001175s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/wabisi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001132s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haixiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bizui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/jiyan.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001513s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kelian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001053s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/keai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/lei.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001059s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/touxiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bishi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001272s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shengbin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001046s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/hehe.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001525s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/taikaixin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/aini.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000181s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ldln.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000954s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/weiqu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/youhenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001038s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/tu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001637s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/dahaqian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baobao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002030s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/canzui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001073s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qinqin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.030720s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yiwen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001068s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/sikao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:17+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/han.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006541s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/nu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001728s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuijiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuohenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012113s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baibai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002849s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shiwang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001012s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ku.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/guzhang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002115s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/beishuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuakuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001072s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heixian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001307s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/huaxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005875s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heng.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002407s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yinxian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001124s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/numa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001059s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuangxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/style2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004122s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/style4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000998s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016554s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/style3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003040s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001199s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001737s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001395s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/default.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001229s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/hehe.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000423s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001415s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xixi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001106s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haha.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001352s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kelian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/wabisi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001067s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/chijing.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001436s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bizui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001056s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/jiyan.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haixiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007690s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/lei.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001046s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/aini.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001006s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qinqin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001165s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shengbin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001057s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/taikaixin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001052s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/keai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004341s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/touxiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001096s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:18+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bishi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004494s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ldln.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001201s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuohenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001071s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/youhenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001239s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001455s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003327s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/tu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002635s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baobao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001141s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/dahaqian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001068s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/weiqu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001506s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baibai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001166s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/sikao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/han.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001159s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/nu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036483s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001386s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/canzui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuijiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011544s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ku.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001242s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shiwang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001096s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/beishuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001341s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003031s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/huaxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heng.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001100s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuakuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001453s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yiwen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.054022s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/guzhang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003887s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:13:19+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heixian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001190s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__PUBLIC__/Home/Theme/%7B$style%7D/Css/nav.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__PUBLIC__/Home/Uploadify/jquery.uploadify.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__PUBLIC__/Home/Js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001909s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__PUBLIC__/Home/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001021s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__PUBLIC__/Home/Theme/%7B$style%7D/Css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001034s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__PUBLIC__/Home/Theme/%7B$style%7D/Css/bottom.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__PUBLIC__/Home/Uploadify/uploadify.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011089s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__PUBLIC__/Home/Js/nav.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001064s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001210s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001358s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/hehe.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001014s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xixi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001515s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001085s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haha.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001679s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kelian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001058s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/keai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001494s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haixiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001150s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:47+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bizui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001080s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bishi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/aini.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001077s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/lei.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001546s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/chijing.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002440s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/touxiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001103s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qinqin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001389s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/wabisi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002033s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shengbin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001335s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ldln.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/taikaixin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001102s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuohenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001399s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/youhenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001363s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001151s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/tu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/dahaqian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001186s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baobao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004503s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yiwen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001016s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baibai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/nu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/sikao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/han.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/jiyan.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.046394s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/weiqu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000956s ]
+INFO: [ app_init ] --END-- [ RunTime:0.098956s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/canzui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.042702s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuijiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001077s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001012s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001143s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ku.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001228s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heng.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001017s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/guzhang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/beishuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001285s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/huaxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001904s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuakuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/numa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001358s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001071s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuangxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heixian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003274s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yinxian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015449s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shiwang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010687s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/style3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001190s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/style4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001025s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001094s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000959s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/hehe.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001151s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xixi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001058s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haha.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001065s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/keai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001082s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001116s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/style2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.035985s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haixiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:48+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/chijing.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001043s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/jiyan.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002039s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bizui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001139s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kelian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.029820s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/wabisi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/aini.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001098s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/touxiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qinqin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001162s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shengbin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001117s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/taikaixin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ldln.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001166s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/default.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.065924s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/youhenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/lei.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001981s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bishi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001877s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuohenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001787s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001205s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001087s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baobao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000981s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/nu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yiwen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/weiqu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001065s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baibai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000949s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/canzui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000990s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/dahaqian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001036s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/tu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/han.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001226s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001374s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/sikao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001409s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuijiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001422s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003568s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ku.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002163s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heng.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002758s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shiwang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002099s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/huaxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001792s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/guzhang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001445s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002253s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/numa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heixian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001342s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/beishuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001193s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuangxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001055s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuakuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003946s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yinxian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001086s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:49+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xixi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:50+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haha.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:50+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001100s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:14:50+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.032837s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:14:50+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/keai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000963s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:50+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/hehe.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.051474s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:14:50+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001246s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:15:06+08:00 ] ::1 /weibo/__PUBLIC__/Home/Theme/%7B$style%7D/Css/nav.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001044s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:06+08:00 ] ::1 /weibo/__PUBLIC__/Home/Theme/%7B$style%7D/Css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001203s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:06+08:00 ] ::1 /weibo/__PUBLIC__/Home/Uploadify/jquery.uploadify.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001891s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Theme/%7B$style%7D/Css/bottom.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Uploadify/uploadify.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011877s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001197s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/hehe.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xixi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/keai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001146s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/wabisi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001203s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/chijing.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001051s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haixiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001283s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bizui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Js/nav.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000926s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/aini.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haha.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bishi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qinqin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kelian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001103s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/touxiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025200s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/taikaixin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ldln.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000980s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shengbin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/youhenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuohenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001106s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000934s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/jiyan.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002212s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/lei.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001295s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/tu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/dahaqian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001181s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yiwen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/canzui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baobao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baibai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001283s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/sikao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001370s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001158s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/han.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.043717s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026312s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shiwang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ku.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001218s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heng.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001212s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/guzhang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001053s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuijiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002872s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/beishuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001100s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuakuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heixian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/weiqu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001017s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:07+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/nu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002269s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/huaxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001103s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuangxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yinxian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025527s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000929s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001071s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/keai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001036s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xixi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/hehe.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001353s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kelian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001045s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/wabisi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/chijing.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000998s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haixiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/jiyan.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bizui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/bishi.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/aini.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/lei.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001046s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/touxiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shengbin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001055s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qinqin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001378s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/taikaixin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ldln.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuohenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/xiu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000958s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/tu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001563s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baobao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/youhenhen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/dahaqian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001082s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/numa.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001011s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/canzui.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003293s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/haha.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002681s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/baibai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001002s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/sikao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/han.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuijiao.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001209s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/qian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001011s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/ku.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000964s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shiwang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yiwen.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.119448s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heng.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001198s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/guzhang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001785s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/default.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/beishuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/yun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000964s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/kun.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001205s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001020s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/style3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002406s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.031587s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/keai.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002346s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/weiqu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001153s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/style2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000937s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/nu.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001072s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:08+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.isturn.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002677s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:15:09+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/shuangxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001103s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:09+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/heixian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001496s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:09+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/zuakuang.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001708s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:09+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/phiz/huaxin.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.047050s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:09+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.mini%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001112s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:15:09+08:00 ] ::1 /weibo/__ROOT__/Uploads/Pic/%7B$v.medium%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+ERR: 无法加载模块:__ROOT__
+
+[ 2017-09-01T16:15:09+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/style4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001114s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-09-01T16:15:09+08:00 ] ::1 /weibo/__PUBLIC__/Home/Images/loading.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006848s ]
+ERR: 无法加载模块:__PUBLIC__
+
+_
+
+[ 2017-09-01T17:13:28+08:00 ] ::1 /weibo/Public/Theme/default/Css/nav.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-01T17:13:28+08:00 ] ::1 /weibo/Public/Js/nav.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001119s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-01T17:13:28+08:00 ] ::1 /weibo/Public/Theme/default/Css/user.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.028843s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-01T17:13:28+08:00 ] ::1 /weibo/Public/Theme/default/Css/bottom.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010901s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-01T17:13:28+08:00 ] ::1 /weibo/Public/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001135s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-01T17:13:28+08:00 ] ::1 /weibo/Public/Images/noface.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-01T17:13:28+08:00 ] ::1 /weibo/Public/Js/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001075s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-01T17:13:28+08:00 ] ::1 /weibo/Public/Uploadify/uploadify.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002218s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-01T17:13:28+08:00 ] ::1 /weibo/Public/Uploadify/jquery.uploadify.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001788s ]
+ERR: 无法加载模块:Public
+
+[ 2017-09-01T17:13:29+08:00 ] ::1 /weibo/Public/Images/noface.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001154s ]
+ERR: 无法加载模块:Public
+
